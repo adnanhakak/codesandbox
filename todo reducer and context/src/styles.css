@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.checked {
+  text-decoration: line-through;
+  color: red;
+}
